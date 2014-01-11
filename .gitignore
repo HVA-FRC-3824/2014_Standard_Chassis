@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/Standard_Chassis/nbproject/private/
+/Standard_Chassis/build/
+/StandardChassis/build/
